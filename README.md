@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bhos</h1>
-<h3 align="center">I am a dedicated student pursuing a BTech in Computer Science and Engineering at Ajeenkya D.Y Patil University. Specializing in Cyber Security, my focus areas include Red Teaming and Penetration Testing. I am well-versed in a range of programming languages, demonstrating proficiency in Python, C, C++, Assembly, and Bash. With a passion for securing digital landscapes, I am actively engaged in honing my skills to contribute effectively to the field of cybersecurity. My academic journey reflects my commitment to staying at the forefront of technology and ensuring the resilience of digital systems against potential threats.</h3>
+<h3 align="center">A Passionate Penetration Tester from India .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-bhos04&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-bhos04" /> </p>
 
